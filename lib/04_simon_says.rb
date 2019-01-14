@@ -19,6 +19,6 @@ end
 def first_word(word)
 	word.split[0]
 end
-
+#pas trouvé.
 
 
